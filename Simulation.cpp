@@ -1,6 +1,6 @@
 // CLASS: Simulation
 //
-// Author: Fisayo Olofin, 7812316
+// Author: Fisayo Olofin
 //
 // REMARKS: Runs the simulation to 
 //
