@@ -1,6 +1,6 @@
 // CLASS: PartArrival
 //
-// Author: Fisayo Olofin, 7812316
+// Author: Fisayo Olofin
 //
 // REMARKS: Event to handle the when a part arrives at a station
 //
