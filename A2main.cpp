@@ -1,8 +1,6 @@
 //-----------------------------------------
 // NAME		: Fisayo Olofin
-// STUDENT NUMBER	: 7812316
 // COURSE		: COMP 2150
-// INSTRUCTOR	: Ali Neshati
 // ASSIGNMENT	: Assignment 2
 // 
 // REMARKS: Discrete event simulation of an assembly line
