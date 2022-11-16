@@ -1,6 +1,6 @@
 // CLASS: StartAssembly
 //
-// Author: Fisayo Olofin, 7812316
+// Author: Fisayo Olofin
 //
 // REMARKS: Event to handle when a station needs to assemble parts
 //
