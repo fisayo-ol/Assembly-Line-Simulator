@@ -1,6 +1,6 @@
 // CLASS: Event
 //
-// Author: Fisayo Olofin, 7812316
+// Author: Fisayo Olofin
 
 // REMARKS: Parent class all other types event needed in the simulation
 //
